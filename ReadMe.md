@@ -2,9 +2,9 @@ Working on it but heres the basic work it does
 AI Website Assistant & Customer Insight Platform
 Overview
 
-An AI-powered website chatbot that learns directly from a company's website and documents, answers customer questions, and provides actionable insights to help businesses improve their website, support process, and conversions.
+**An AI-powered website chatbot that learns directly from a company's website and documents, answers customer questions, and provides actionable insights to help businesses improve their website, support process, and conversions.**
 
-Core Features
+**Core Features**
 AI Website Chatbot
 Answers questions using only company-approved information
 Trained from:
@@ -15,7 +15,7 @@ Prevents hallucinations by restricting responses to available knowledge
 Automatic Website Training
 python train_website.py https://company.com
 
-Automatically:
+**Automatically:**
 
 Crawls website pages
 Extracts content
@@ -24,14 +24,14 @@ Creates embeddings
 Builds searchable knowledge base
 Customer Analytics
 
-Tracks:
+**Tracks:**
 
 Most asked questions
 Frequently searched topics
 Unanswered questions
 User pain points
 
-Example Insight:
+**Example Insight:**
 
 35% of users asked about pricing
 20% asked about refunds
