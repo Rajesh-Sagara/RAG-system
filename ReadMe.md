@@ -1,6 +1,6 @@
 Working on it but heres the basic work it does
 AI Website Assistant & Customer Insight Platform
-Overview
+**Overview**
 
 **An AI-powered website chatbot that learns directly from a company's website and documents, answers customer questions, and provides actionable insights to help businesses improve their website, support process, and conversions.**
 
@@ -88,6 +88,7 @@ Customer behavior analytics
 Lead generation opportunities
 
 ****ARCHITECHTURE****
+
 User question
      ↓
 Embedding search
@@ -101,6 +102,7 @@ LLM generation
 Answer
 
 Future Integrations
+
 Multi-client SaaS platform
 Subscription management
 Hosted deployments
